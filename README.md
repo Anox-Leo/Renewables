@@ -1,4 +1,4 @@
-# 🦙 Renewables
+# ☀️ Renewables
 
 Renewables is a Solar Punk-themed platformer. Players collect energy to power generators and restore a sustainable world.
  
