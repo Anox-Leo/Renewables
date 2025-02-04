@@ -1,6 +1,6 @@
 # ☀️ Renewables
 
-Renewables is a Solar Punk-themed platformer. Players collect energy to power generators and restore a sustainable world.
+Renewables is a Solar Punk-themed platformer made with Godot. Players collect energy to power generators and restore a sustainable world.
  
 ## 📸 Preview
 
