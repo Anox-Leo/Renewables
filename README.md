@@ -12,4 +12,4 @@ Renewables is a Solar Punk-themed platformer. Players collect energy to power ge
 
 ## How to play the game
 
-The game is available on : https://intersemestre-2024-fila1.itch.io/renewables
+The game is available for free on : https://intersemestre-2024-fila1.itch.io/renewables
